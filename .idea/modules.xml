@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientWS/ClientWS.iml" filepath="$PROJECT_DIR$/ClientWS/ClientWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP-web-services.iml" filepath="$PROJECT_DIR$/.idea/TP-web-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP_WS/TP_WS.iml" filepath="$PROJECT_DIR$/TP_WS/TP_WS.iml" />
+    </modules>
+  </component>
+</project>
